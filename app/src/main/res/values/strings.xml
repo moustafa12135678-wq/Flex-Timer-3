@@ -1,0 +1,4 @@
+<!-- Example resource files -->
+<resources>
+    <string name="app_name">Flex Timer</string>
+</resources>
